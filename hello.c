@@ -2,7 +2,7 @@
  * Author: Aditya Tadepalli
  * Date: 2023/08/24
  *
- * A simple name program in C
+ * A simple name and major program in C
  *
  */
 #include <stdlib.h>
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Aditya Tadepalli\n");
+  printf("Name: Aditya Tadepalli!\n");
+  printf("Major: Computer Science\n");
 
   return 0;
 }
